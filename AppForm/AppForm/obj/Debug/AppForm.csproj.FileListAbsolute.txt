@@ -1,0 +1,5 @@
+F:\QTProjects\AppForm\AppForm\AppForm\bin\Debug\AppForm.exe.config
+F:\QTProjects\AppForm\AppForm\AppForm\bin\Debug\AppForm.exe
+F:\QTProjects\AppForm\AppForm\AppForm\bin\Debug\AppForm.pdb
+F:\QTProjects\AppForm\AppForm\AppForm\obj\Debug\AppForm.exe
+F:\QTProjects\AppForm\AppForm\AppForm\obj\Debug\AppForm.pdb

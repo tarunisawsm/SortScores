@@ -1,0 +1,8 @@
+F:\QTProjects\AppForm\AppForm\AppForm.Test\obj\Debug\AppForm.Test.csprojResolveAssemblyReference.cache
+F:\QTProjects\AppForm\AppForm\AppForm.Test\bin\Debug\AppForm.Test.dll
+F:\QTProjects\AppForm\AppForm\AppForm.Test\bin\Debug\AppForm.Test.pdb
+F:\QTProjects\AppForm\AppForm\AppForm.Test\bin\Debug\AppForm.exe
+F:\QTProjects\AppForm\AppForm\AppForm.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\QTProjects\AppForm\AppForm\AppForm.Test\bin\Debug\AppForm.pdb
+F:\QTProjects\AppForm\AppForm\AppForm.Test\obj\Debug\AppForm.Test.dll
+F:\QTProjects\AppForm\AppForm\AppForm.Test\obj\Debug\AppForm.Test.pdb

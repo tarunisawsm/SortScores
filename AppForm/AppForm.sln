@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForm", "AppForm\AppForm.csproj", "{584EC8E0-CE24-4C37-95BA-282FDC52341F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForm.Test", "AppForm.Test\AppForm.Test.csproj", "{FD81A2DF-9DF3-41C1-8709-B765375D3053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584EC8E0-CE24-4C37-95BA-282FDC52341F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584EC8E0-CE24-4C37-95BA-282FDC52341F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584EC8E0-CE24-4C37-95BA-282FDC52341F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584EC8E0-CE24-4C37-95BA-282FDC52341F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD81A2DF-9DF3-41C1-8709-B765375D3053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD81A2DF-9DF3-41C1-8709-B765375D3053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD81A2DF-9DF3-41C1-8709-B765375D3053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD81A2DF-9DF3-41C1-8709-B765375D3053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
